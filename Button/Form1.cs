@@ -15,7 +15,7 @@ namespace Button
 
             {
 
-                FileName = "https://youtube.com",
+                yourube = "https://youtube.com",
 
                 UseShellExecute = true
 
@@ -29,7 +29,7 @@ namespace Button
 
             {
 
-                FileName = "https://youtube.com",
+                yourube = "https://youtube.com",
 
                 UseShellExecute = true
 
